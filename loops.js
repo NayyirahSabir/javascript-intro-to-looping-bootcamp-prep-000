@@ -41,7 +41,8 @@ function doWhileLoop(num) {
   num = num + 1;
   do {
    console.log("I run once regardless.");
-   } while (function incrementVariable() < num {
+   } while (function incrementVariable() {
   i = i + 1;
   return i;
+   }
 }
