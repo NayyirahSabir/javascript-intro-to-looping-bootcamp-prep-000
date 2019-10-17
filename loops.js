@@ -36,7 +36,7 @@ function doWhileLoop(num){
   return 'done'
 }
 
- 
+var i = 0
 function doWhileLoop(num) {
   num = num + 1;
   do {
